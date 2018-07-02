@@ -1,0 +1,6 @@
+#Sun, 01 Apr 2018 20:58:21 -0400
+
+info.app.version=0.1
+info.app.name=shop
+grails.env=development
+info.app.grailsVersion=3.3.3
